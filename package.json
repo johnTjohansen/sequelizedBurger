@@ -1,5 +1,5 @@
 {
-  "name": "node_what_todo",
+  "name": "sequelized-Burger",
   "version": "1.0.0",
   "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
   "main": "server.js",
